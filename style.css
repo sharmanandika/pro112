@@ -1,0 +1,36 @@
+body
+{
+  color: rgb(0, 162, 255);
+  background: #c0d3ff;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(72, 105, 147);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size:18px;
+  border-radius:10px;
+  letter-spacing: 5px;
+  border-color: black;
+  border-width: 5px;
+}
